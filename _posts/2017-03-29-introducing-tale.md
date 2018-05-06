@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Introducing the new blog"
 author: "Chester"
 ---
 
